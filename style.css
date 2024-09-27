@@ -1,0 +1,40 @@
+#nav2{
+    width: 100%;
+    height: 70px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+}
+.logo{
+    width: 90px;
+    height: 40px;
+}
+#midnav{  
+    width: 800px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+}
+#midnav > button{
+    width: 80px;
+    height: 40px;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 14px;
+    color: red;
+    border: 1px solid red;
+}
+.right{
+    color:  #8898cb;
+}
+.pic{
+    width: 30px;
+    height: 10px;
+}
+select{
+    border: 1px solid white;
+}
